@@ -1,0 +1,20 @@
+body {
+  font-family: "Merriweather", "SolaimanLipi", sans-serif;
+}
+
+.ul-item {
+  font-size: 12px;
+  padding-left: 0px;
+}
+
+.pr-2 {
+  padding-right: 0.5rem;
+  border-right: 1px solid;
+}
+
+.nav-border {
+  border-bottom: 2px solid;
+}
+.img {
+  margin-left: -10px;
+}

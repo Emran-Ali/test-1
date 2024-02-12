@@ -26,7 +26,19 @@ body {
   border-bottom: 2px solid rgb(211, 120, 0);
 }
 .foot {
-  height: 3rem;
   width: 100vh;
+  padding-left: 10%;
   background: #233850;
+}
+.bg {
+  height: 4rem;
+  background-image: url("prayer.png");
+}
+.bg-lst {
+  background: #57be4e !important;
+  margin: 2px;
+}
+.bg-lst2 {
+  background-color: #cde930;
+  margin: 2px;
 }
